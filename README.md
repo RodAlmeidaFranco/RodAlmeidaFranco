@@ -1,6 +1,6 @@
 # Hi there 👋!
 I'm Rodrigo Franco & I'm a brazilian Software Engineer.
-I have experience working with monolithic and microservices applications. I'm currently working with scalable applications in Java and Kotlin.
+I have experience working with monolithic and microservices applications. I'm currently working with scalable applications in Java and Kotlin.<br>
 Go beyond, Plus Ultra! 🌅 <br>
 
 <img  alt="GIF" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" />
